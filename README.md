@@ -37,5 +37,5 @@
 
 ---
 
-github address: [B-SM]][github]
+github address: [B-SM][github]
 [github]: https://github.com/B-SM
