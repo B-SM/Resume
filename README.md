@@ -35,5 +35,7 @@
 |소프트웨어세미나2| 최신 소프트웨어 트랜드|1|
 |디지털문서작성|오피스 및 문서작성프로그램 활용방법|1|
 
+---
 
-
+github address: [B-SM]][github]
+[github]: https://github.com/B-SM
